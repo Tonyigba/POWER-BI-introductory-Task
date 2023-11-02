@@ -1,4 +1,4 @@
-# POWER-BI-introductory-Task 2
+# POWER-BI-introductory-Task 1
 
 # Introduction
 This report serves as an introduction to Power BI. This task includes web data extraction within Power BI, importing a dataset into Power BI, and creating columns and rows with added information. These tasks are designed as an introductory experience with Power BI.
